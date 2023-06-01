@@ -5,3 +5,5 @@ note
 
 webpack splitChunks 配置参数详解
 https://segmentfault.com/a/1190000042093955
+
+https://juejin.cn/post/7239267216805838903
