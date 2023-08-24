@@ -19,3 +19,5 @@ https://juejin.cn/post/7225569023828508727
 https://ones.cn/wiki/#/team/CVDSX4yL/space/M42zz5ED/page/6JesaoEb
 
 https://vue3js.cn/
+
+https://jkchao.github.io/typescript-book-chinese/typings/generices.html#%E8%AF%AF%E7%94%A8%E7%9A%84%E6%B3%9B%E5%9E%8B
